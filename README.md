@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfankhoiri
-- 👀 I’m interested in programming web development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in back-end web development
+- 🌱 I’m currently learning PHP and YII2 Framework
 
 <!---
 irfankhoiri/irfankhoiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
