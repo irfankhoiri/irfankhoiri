@@ -11,7 +11,7 @@ I'm passionate about web development and constantly learning new things.
 - Git & GitHub
 
 ### 📂 Featured Projects
-- [PHP News Content](https://github.com/irfankhoiri/laravel-cms) – A simple news content management system
+- [PHP News Content](https://github.com/irfankhoiri/News-Content-PHP) – A simple news content management system
 
 
 ### 📫 Contact Me
