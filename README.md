@@ -12,6 +12,7 @@ I'm passionate about web development and constantly learning new things.
 
 ### 📂 Featured Projects
 - [PHP News Content](https://github.com/irfankhoiri/News-Content-PHP) – A simple news content management system
+- [Attendance System](https://github.com/irfankhoiri/attendance) - A simple attendance system for staff and admin
 
 
 ### 📫 Contact Me
